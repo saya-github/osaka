@@ -13,3 +13,8 @@
 * Clone repository
 * Fork repository
 * Pull Request
+
+## Open Source
+* Explore
+* Permissions
+* CV
